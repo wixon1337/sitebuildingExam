@@ -78,3 +78,9 @@
   .\35 \.4 { grid-area: \35 \.4; }
   
   .\35 \.5 { grid-area: \35 \.5; }
+
+  #name {
+    color: blue;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace
+  }
